@@ -7,7 +7,7 @@ prepared for arduino / esp8266 / stm32 bluepill
 2. in Arduino IDE go to File > examples > mq135lib > basicExample
 3. See examples/basicExample get know how to use it, there are lot of comments you need read before using this library
 
-# Basing on sensitivity points from datasheet (for C6H6)
+# Lib use sensitivity points from datasheet (for C6H6)
 ![Basing on sensitivity points from datasheet](/images/graph.jpg)
 # Example usage with oled screen
 ![example usage with oled screen](/images/oled.jpg)
